@@ -1,7 +1,7 @@
 {
   "name": "vue-read-file",
-  "description": "A Vue.js project",
-  "version": "1.0.1",
+  "description": "Vue implementation of ReadFile",
+  "version": "1.0.2",
   "author": "leiyswork@163.com",
   "license": "MIT",
   "private": false,

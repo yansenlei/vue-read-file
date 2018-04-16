@@ -1,6 +1,6 @@
 # vue-read-file
 
-> 一个简单易用的读取文件组件
+> 一个简单易用的文件读取组件
 
 ## Using
 
@@ -21,11 +21,11 @@ import ReadFile from 'vue-read-file'
 ```
 
 ### Options
-| Name  | Description    |
-| ----- | -------------- |
-| value | - |
-| accept | 文件类型限制, 格式: .txt |
-| position | 按钮位置, 可选: 'left'、'center' |
+| Name     | Description                      | required |
+| -------- | -------------------------------- | ------- |
+| value    | -                                | true |
+| accept   | 文件类型限制, 格式: ".txt"         | false |
+| position | 按钮位置, 可选: "left"、"center" | false |
 
 ## Build Setup
 
